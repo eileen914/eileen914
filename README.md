@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Eileen 👋
 
 <!--
 **eileen914/eileen914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![eileen914's Aquarium](https://githubaquarium.store/render/aquarium/eileen914?width=700&height=400)](https://githubaquarium.store/u/eileen914)
